@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Full Stack developer having years of experience with developing enterprise applications. I am a fast learner and love to work in a team environment. I love Java & Spring framework.
+I am a Full Stack developer having couple of years of experience with developing enterprise applications. I am a fast learner and love to work in a team environment. I love Java & Spring framework.
 
 *   🌍  I'm based in Colombo, Sri Lanka
-*   🧠  I'm learning gRPC, Protobuf and OAuth2.0
+*   🧠  These days I'm learning gRPC, Protobuf and OAuth2.0
 *   🤝  I'm open to collaborating on any backend related projects. I prefer Java, but I am open to learn new languages.
+
 <a href="https://www.github.com/diliproshitha" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/diliproshitha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/diliproshitha" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/diliproshitha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
